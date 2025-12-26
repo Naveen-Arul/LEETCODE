@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Naveen-Arul/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Naveen-Arul/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Naveen-Arul/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Naveen-Arul/LEETCODE/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
