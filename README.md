@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Naveen-Arul/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Naveen-Arul/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
 ## Math
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Prefix Sum
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Naveen-Arul/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
