@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naveen-Arul/LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Naveen-Arul/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Naveen-Arul/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Naveen-Arul/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Naveen-Arul/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Naveen-Arul/LEETCODE/tree/master/0409-longest-palindrome) |
 ## Queue
 |  |
