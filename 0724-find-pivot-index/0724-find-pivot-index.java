@@ -3,9 +3,9 @@ class Solution {
         
         int leftsum=0;
         int rightsum=0;
-        for(int num : nums)
+        for(int i=0;i<nums.length;i++)
         {
-            rightsum+=num;
+            rightsum+=nums[i];
         }
         for(int i=0;i<nums.length;i++)
         {
