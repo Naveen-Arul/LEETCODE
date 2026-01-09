@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
+| [0844-backspace-string-compare](https://github.com/Naveen-Arul/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Naveen-Arul/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Naveen-Arul/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Naveen-Arul/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Naveen-Arul/LEETCODE/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0189-rotate-array) |
+| [0844-backspace-string-compare](https://github.com/Naveen-Arul/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Naveen-Arul/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Naveen-Arul/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Naveen-Arul/LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0844-backspace-string-compare](https://github.com/Naveen-Arul/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Naveen-Arul/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2278-percentage-of-letter-in-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naveen-Arul/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Naveen-Arul/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/Naveen-Arul/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
