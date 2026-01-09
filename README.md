@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Naveen-Arul/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Naveen-Arul/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Naveen-Arul/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Divide and Conquer
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Naveen-Arul/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Naveen-Arul/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2278-percentage-of-letter-in-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/2278-percentage-of-letter-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naveen-Arul/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Naveen-Arul/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [2390-removing-stars-from-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
