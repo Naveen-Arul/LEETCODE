@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Naveen-Arul/LEETCODE/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Naveen-Arul/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Naveen-Arul/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Naveen-Arul/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Naveen-Arul/LEETCODE/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Naveen-Arul/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Naveen-Arul/LEETCODE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Naveen-Arul/LEETCODE/tree/master/0692-top-k-frequent-words) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naveen-Arul/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Naveen-Arul/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Naveen-Arul/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
