@@ -5,7 +5,9 @@ class Solution {
             if (set.contains(x)) {
                 return true;
             }
+            else{
             set.add(x);
+            }
         }
         return false;
     }
