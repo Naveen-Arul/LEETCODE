@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Naveen-Arul/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Naveen-Arul/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0376-wiggle-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Naveen-Arul/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Naveen-Arul/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Naveen-Arul/LEETCODE/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/Naveen-Arul/LEETCODE/tree/master/2485-find-the-pivot-integer) |
 ## Union Find
