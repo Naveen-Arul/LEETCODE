@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Naveen-Arul/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Naveen-Arul/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Naveen-Arul/LEETCODE/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Naveen-Arul/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
 | [0810-chalkboard-xor-game](https://github.com/Naveen-Arul/LEETCODE/tree/master/0810-chalkboard-xor-game) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Naveen-Arul/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Naveen-Arul/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Naveen-Arul/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Naveen-Arul/LEETCODE/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Naveen-Arul/LEETCODE/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -242,12 +244,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Naveen-Arul/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Naveen-Arul/LEETCODE/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Naveen-Arul/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Naveen-Arul/LEETCODE/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Naveen-Arul/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Naveen-Arul/LEETCODE/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
