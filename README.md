@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Naveen-Arul/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Naveen-Arul/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Naveen-Arul/LEETCODE/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Naveen-Arul/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Naveen-Arul/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Naveen-Arul/LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Naveen-Arul/LEETCODE/tree/master/0066-plus-one) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naveen-Arul/LEETCODE/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Naveen-Arul/LEETCODE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Naveen-Arul/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Naveen-Arul/LEETCODE/tree/master/0242-valid-anagram) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Naveen-Arul/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Naveen-Arul/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Naveen-Arul/LEETCODE/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0179-largest-number) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Naveen-Arul/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Naveen-Arul/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Naveen-Arul/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Naveen-Arul/LEETCODE/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Naveen-Arul/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
