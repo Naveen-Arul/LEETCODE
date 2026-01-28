@@ -26,7 +26,6 @@ class Solution {
         {
             nums[inc++]=1;
         }
-        int n2=0;
         for(int i=0;i<c2;i++)
         {
             nums[inc++]=2;
