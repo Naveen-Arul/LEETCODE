@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Naveen-Arul/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Naveen-Arul/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Naveen-Arul/LEETCODE/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Naveen-Arul/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Naveen-Arul/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Naveen-Arul/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naveen-Arul/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naveen-Arul/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Naveen-Arul/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
