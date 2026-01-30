@@ -108,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
+| [0785-is-graph-bipartite](https://github.com/Naveen-Arul/LEETCODE/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Naveen-Arul/LEETCODE/tree/master/0127-word-ladder) |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
+| [0785-is-graph-bipartite](https://github.com/Naveen-Arul/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0909-snakes-and-ladders](https://github.com/Naveen-Arul/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Naveen-Arul/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -266,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Naveen-Arul/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Naveen-Arul/LEETCODE/tree/master/0706-design-hashmap) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Naveen-Arul/LEETCODE/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Naveen-Arul/LEETCODE/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
