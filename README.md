@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Naveen-Arul/LEETCODE/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naveen-Arul/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Naveen-Arul/LEETCODE/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Naveen-Arul/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Naveen-Arul/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naveen-Arul/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Prefix Sum
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Naveen-Arul/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/Naveen-Arul/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naveen-Arul/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Naveen-Arul/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2278-percentage-of-letter-in-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Naveen-Arul/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0179-largest-number) |
 | [0376-wiggle-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/Naveen-Arul/LEETCODE/tree/master/0409-longest-palindrome) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naveen-Arul/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Queue
 |  |
 | ------- |
