@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Naveen-Arul/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Naveen-Arul/LEETCODE/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Naveen-Arul/LEETCODE/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Naveen-Arul/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/Naveen-Arul/LEETCODE/tree/master/0844-backspace-string-compare) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Naveen-Arul/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Naveen-Arul/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Naveen-Arul/LEETCODE/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Naveen-Arul/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Naveen-Arul/LEETCODE/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Naveen-Arul/LEETCODE/tree/master/0242-valid-anagram) |
