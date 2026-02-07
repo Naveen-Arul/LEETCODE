@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Naveen-Arul/LEETCODE/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Naveen-Arul/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Naveen-Arul/LEETCODE/tree/master/0066-plus-one) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0705-design-hashset](https://github.com/Naveen-Arul/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Naveen-Arul/LEETCODE/tree/master/0706-design-hashmap) |
 ## Design
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Arul/LEETCODE/tree/master/0785-is-graph-bipartite) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
