@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Arul/LEETCODE/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
@@ -338,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
