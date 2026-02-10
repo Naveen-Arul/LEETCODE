@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0376-wiggle-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0376-wiggle-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Naveen-Arul/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/Naveen-Arul/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Naveen-Arul/LEETCODE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Naveen-Arul/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Naveen-Arul/LEETCODE/tree/master/0299-bulls-and-cows) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Naveen-Arul/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Naveen-Arul/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Naveen-Arul/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Naveen-Arul/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0810-chalkboard-xor-game](https://github.com/Naveen-Arul/LEETCODE/tree/master/0810-chalkboard-xor-game) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Naveen-Arul/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Naveen-Arul/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/Naveen-Arul/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Naveen-Arul/LEETCODE/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -350,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0110-balanced-binary-tree) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Naveen-Arul/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
