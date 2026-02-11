@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/Naveen-Arul/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naveen-Arul/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Arul/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Naveen-Arul/LEETCODE/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Naveen-Arul/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naveen-Arul/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Arul/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Naveen-Arul/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
