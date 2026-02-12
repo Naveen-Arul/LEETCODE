@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Naveen-Arul/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Naveen-Arul/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Naveen-Arul/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Naveen-Arul/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0268-missing-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Naveen-Arul/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Naveen-Arul/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Naveen-Arul/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Naveen-Arul/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Naveen-Arul/LEETCODE/tree/master/0204-count-primes) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Naveen-Arul/LEETCODE/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Bit Manipulation
 |  |
@@ -368,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Naveen-Arul/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Naveen-Arul/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
