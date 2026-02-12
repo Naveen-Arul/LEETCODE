@@ -1,21 +1,20 @@
 class Solution {
     public int countPrimes(int n) {
-        int c=0;
         if(n<2) return 0;
+        int c=0;
+        boolean[] arr = new boolean[n];
+        Arrays.fill(arr,true);
+        arr[0] = false;
+        arr[1] = false;
         for(int i=2;i<n;i++)
         {
-            boolean isPrime = true;
-            for(int j=2;j*j<=i;j++)
-            {
-                if(i%j==0)
-                {
-                    isPrime = false;
-                    break;
-                }
-            }
-            if(isPrime)
+            if(arr[i])
             {
                 c++;
+                for(long j = (long)i*i;j<n;j+=i)
+                {
+                    arr[(int)j]=false;
+                }
             }
         }
         return c;
