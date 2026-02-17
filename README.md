@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/Naveen-Arul/LEETCODE/tree/master/0401-binary-watch) |
 | [0810-chalkboard-xor-game](https://github.com/Naveen-Arul/LEETCODE/tree/master/0810-chalkboard-xor-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/Naveen-Arul/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Brainteaser
@@ -392,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen-Arul/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Naveen-Arul/LEETCODE/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
