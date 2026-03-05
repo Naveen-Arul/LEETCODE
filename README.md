@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Naveen-Arul/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naveen-Arul/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Arul/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Naveen-Arul/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Naveen-Arul/LEETCODE/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Naveen-Arul/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Naveen-Arul/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naveen-Arul/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Naveen-Arul/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
