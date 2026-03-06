@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Naveen-Arul/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naveen-Arul/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Naveen-Arul/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Naveen-Arul/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2278-percentage-of-letter-in-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Naveen-Arul/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
