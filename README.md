@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Naveen-Arul/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Naveen-Arul/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Naveen-Arul/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Naveen-Arul/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naveen-Arul/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Naveen-Arul/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
