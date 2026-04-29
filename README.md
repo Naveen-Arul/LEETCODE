@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Naveen-Arul/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Naveen-Arul/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Naveen-Arul/LEETCODE/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Naveen-Arul/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Naveen-Arul/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Naveen-Arul/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Naveen-Arul/LEETCODE/tree/master/0069-sqrtx) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Naveen-Arul/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Naveen-Arul/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Naveen-Arul/LEETCODE/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Naveen-Arul/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveen-Arul/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Naveen-Arul/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -444,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Naveen-Arul/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
