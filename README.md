@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naveen-Arul/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Naveen-Arul/LEETCODE/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Naveen-Arul/LEETCODE/tree/master/0696-count-binary-substrings) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Naveen-Arul/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Naveen-Arul/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Naveen-Arul/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Naveen-Arul/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Naveen-Arul/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Naveen-Arul/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Naveen-Arul/LEETCODE/tree/master/0706-design-hashmap) |
 ## Design
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
