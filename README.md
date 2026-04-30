@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Naveen-Arul/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
 | [0810-chalkboard-xor-game](https://github.com/Naveen-Arul/LEETCODE/tree/master/0810-chalkboard-xor-game) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Naveen-Arul/LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0896-monotonic-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0896-monotonic-array) |
 | [0909-snakes-and-ladders](https://github.com/Naveen-Arul/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Naveen-Arul/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Naveen-Arul/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Naveen-Arul/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Naveen-Arul/LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2485-find-the-pivot-integer](https://github.com/Naveen-Arul/LEETCODE/tree/master/2485-find-the-pivot-integer) |
 ## Union Find
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Naveen-Arul/LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Counting
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Naveen-Arul/LEETCODE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Naveen-Arul/LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Naveen-Arul/LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Naveen-Arul/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Naveen-Arul/LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naveen-Arul/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Arul/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Naveen-Arul/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -440,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naveen-Arul/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen-Arul/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Naveen-Arul/LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -453,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Naveen-Arul/LEETCODE/tree/master/0062-unique-paths) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Naveen-Arul/LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
