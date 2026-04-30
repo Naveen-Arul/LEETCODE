@@ -179,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Arul/LEETCODE/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Naveen-Arul/LEETCODE/tree/master/0127-word-ladder) |
+| [0226-invert-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Arul/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0909-snakes-and-ladders](https://github.com/Naveen-Arul/LEETCODE/tree/master/0909-snakes-and-ladders) |
@@ -434,11 +436,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Naveen-Arul/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Naveen-Arul/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0226-invert-binary-tree) |
 ## Randomized
 |  |
 | ------- |
