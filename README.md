@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Naveen-Arul/LEETCODE/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Naveen-Arul/LEETCODE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Naveen-Arul/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen-Arul/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Naveen-Arul/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Naveen-Arul/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Naveen-Arul/LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Arul/LEETCODE/tree/master/0785-is-graph-bipartite) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Naveen-Arul/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/Naveen-Arul/LEETCODE/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Naveen-Arul/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Naveen-Arul/LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Naveen-Arul/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Arul/LEETCODE/tree/master/0785-is-graph-bipartite) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Naveen-Arul/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Naveen-Arul/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Naveen-Arul/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Naveen-Arul/LEETCODE/tree/master/0200-number-of-islands) |
 | [0749-contain-virus](https://github.com/Naveen-Arul/LEETCODE/tree/master/0749-contain-virus) |
 | [0909-snakes-and-ladders](https://github.com/Naveen-Arul/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Naveen-Arul/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Naveen-Arul/LEETCODE/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Arul/LEETCODE/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
