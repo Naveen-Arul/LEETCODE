@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Naveen-Arul/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Naveen-Arul/LEETCODE/tree/master/0706-design-hashmap) |
 ## Design
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
 | ------- |
