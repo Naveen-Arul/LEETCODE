@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Naveen-Arul/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Naveen-Arul/LEETCODE/tree/master/0705-design-hashset) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Tree
