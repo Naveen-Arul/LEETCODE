@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Naveen-Arul/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Naveen-Arul/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/Naveen-Arul/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Naveen-Arul/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Naveen-Arul/LEETCODE/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Naveen-Arul/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Naveen-Arul/LEETCODE/tree/master/0409-longest-palindrome) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Naveen-Arul/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Naveen-Arul/LEETCODE/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Naveen-Arul/LEETCODE/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Naveen-Arul/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Naveen-Arul/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Naveen-Arul/LEETCODE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Naveen-Arul/LEETCODE/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Naveen-Arul/LEETCODE/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Naveen-Arul/LEETCODE/tree/master/0621-task-scheduler) |
@@ -348,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Naveen-Arul/LEETCODE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Naveen-Arul/LEETCODE/tree/master/0692-top-k-frequent-words) |
@@ -355,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Naveen-Arul/LEETCODE/tree/master/0692-top-k-frequent-words) |
 ## Trie
@@ -521,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Naveen-Arul/LEETCODE/tree/master/0175-combine-two-tables) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
