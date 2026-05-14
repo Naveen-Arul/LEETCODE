@@ -517,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Naveen-Arul/LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Naveen-Arul/LEETCODE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
