@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0896-monotonic-array) |
 | [0909-snakes-and-ladders](https://github.com/Naveen-Arul/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Naveen-Arul/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naveen-Arul/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Naveen-Arul/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Naveen-Arul/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Naveen-Arul/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Naveen-Arul/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Naveen-Arul/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Naveen-Arul/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0977-squares-of-a-sorted-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naveen-Arul/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
