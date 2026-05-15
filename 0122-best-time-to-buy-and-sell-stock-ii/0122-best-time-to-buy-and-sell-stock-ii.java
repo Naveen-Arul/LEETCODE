@@ -3,7 +3,8 @@ class Solution {
         int price=0;
         for(int i=1;i<prices.length;i++){
             if(prices[i]>prices[i-1]){
-                price+=prices[i]-prices[i-1];
+                int profit=prices[i]-prices[i-1];
+                price+=profit;
             }
         }
         return price;
