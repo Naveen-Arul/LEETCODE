@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Naveen-Arul/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0413-arithmetic-slices](https://github.com/Naveen-Arul/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/Naveen-Arul/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Naveen-Arul/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Naveen-Arul/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Naveen-Arul/LEETCODE/tree/master/0198-house-robber) |
 | [0376-wiggle-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0376-wiggle-subsequence) |
+| [0413-arithmetic-slices](https://github.com/Naveen-Arul/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0516-longest-palindromic-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Naveen-Arul/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naveen-Arul/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveen-Arul/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0413-arithmetic-slices](https://github.com/Naveen-Arul/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Naveen-Arul/LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naveen-Arul/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 ## Backtracking
