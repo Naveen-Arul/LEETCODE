@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Naveen-Arul/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Naveen-Arul/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Naveen-Arul/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Naveen-Arul/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Naveen-Arul/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Naveen-Arul/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Naveen-Arul/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Naveen-Arul/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Naveen-Arul/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Naveen-Arul/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Naveen-Arul/LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Naveen-Arul/LEETCODE/tree/master/0062-unique-paths) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen-Arul/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Naveen-Arul/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Naveen-Arul/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Naveen-Arul/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Naveen-Arul/LEETCODE/tree/master/0179-largest-number) |
