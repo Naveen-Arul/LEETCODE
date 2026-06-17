@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Naveen-Arul/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Naveen-Arul/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3637-trionic-array-i](https://github.com/Naveen-Arul/LEETCODE/tree/master/3637-trionic-array-i) |
+| [3842-toggle-light-bulbs](https://github.com/Naveen-Arul/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Naveen-Arul/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Naveen-Arul/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
+| [3842-toggle-light-bulbs](https://github.com/Naveen-Arul/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Naveen-Arul/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Naveen-Arul/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Naveen-Arul/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3842-toggle-light-bulbs](https://github.com/Naveen-Arul/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naveen-Arul/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Naveen-Arul/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Naveen-Arul/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3842-toggle-light-bulbs](https://github.com/Naveen-Arul/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Prefix Sum
 |  |
 | ------- |
