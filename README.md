@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Naveen-Arul/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Naveen-Arul/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Naveen-Arul/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
+| [2574-left-and-right-sum-differences](https://github.com/Naveen-Arul/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Naveen-Arul/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3637-trionic-array-i](https://github.com/Naveen-Arul/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3842-toggle-light-bulbs](https://github.com/Naveen-Arul/LEETCODE/tree/master/3842-toggle-light-bulbs) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Naveen-Arul/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Naveen-Arul/LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2485-find-the-pivot-integer](https://github.com/Naveen-Arul/LEETCODE/tree/master/2485-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/Naveen-Arul/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Union Find
 |  |
 | ------- |
