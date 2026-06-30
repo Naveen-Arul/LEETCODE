@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Naveen-Arul/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Naveen-Arul/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Naveen-Arul/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Naveen-Arul/LEETCODE/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Naveen-Arul/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naveen-Arul/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Naveen-Arul/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Naveen-Arul/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Naveen-Arul/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Naveen-Arul/LEETCODE/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Naveen-Arul/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
