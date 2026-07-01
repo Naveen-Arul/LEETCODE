@@ -6,7 +6,7 @@ class Solution {
         }
         int ans=0;
         for(int n:map.values()){
-            ans+=(n/2)*2;
+            ans+=n%2==0?n:n-1;
         } 
         if(s.length()>ans) ans+=1;
         return ans;
